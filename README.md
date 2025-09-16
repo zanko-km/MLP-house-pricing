@@ -1,4 +1,3 @@
-# MLP-house-pricing
 # House Price Prediction Using Simple Neural Network (MLP)
 
 ## Project Overview
